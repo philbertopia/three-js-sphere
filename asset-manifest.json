@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/philbertopia/minecraft-clone.git/static/css/main.e9c2e727.chunk.css",
+    "main.js": "/philbertopia/minecraft-clone.git/static/js/main.c53301d4.chunk.js",
+    "main.js.map": "/philbertopia/minecraft-clone.git/static/js/main.c53301d4.chunk.js.map",
+    "runtime-main.js": "/philbertopia/minecraft-clone.git/static/js/runtime-main.3d04bb09.js",
+    "runtime-main.js.map": "/philbertopia/minecraft-clone.git/static/js/runtime-main.3d04bb09.js.map",
+    "static/js/2.a26eb8dc.chunk.js": "/philbertopia/minecraft-clone.git/static/js/2.a26eb8dc.chunk.js",
+    "static/js/2.a26eb8dc.chunk.js.map": "/philbertopia/minecraft-clone.git/static/js/2.a26eb8dc.chunk.js.map",
+    "index.html": "/philbertopia/minecraft-clone.git/index.html",
+    "static/css/main.e9c2e727.chunk.css.map": "/philbertopia/minecraft-clone.git/static/css/main.e9c2e727.chunk.css.map",
+    "static/js/2.a26eb8dc.chunk.js.LICENSE.txt": "/philbertopia/minecraft-clone.git/static/js/2.a26eb8dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d04bb09.js",
+    "static/js/2.a26eb8dc.chunk.js",
+    "static/css/main.e9c2e727.chunk.css",
+    "static/js/main.c53301d4.chunk.js"
+  ]
+}
